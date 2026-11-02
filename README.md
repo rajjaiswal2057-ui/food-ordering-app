@@ -17,7 +17,6 @@ A lightweight Python application for an online food ordering system, built to de
 - [Testing](#testing)
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Git Workflow](#git-workflow)
-- [Author](#author)
 
 ## Features
 - Menu browsing through a simple JSON API
@@ -93,6 +92,3 @@ The result is visible in the repository **Actions** tab.
 - The branch is merged into `main` with a merge commit.
 - A push to `main` triggers the CI pipeline.
 
-## Author
-
-**Raj Jaiswal** - [@rajjaiswal2057-ui](https://github.com/rajjaiswal2057-ui)
